@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000j\u0000e\u0000s\u0000t\u0000-\u0000R\u0000P\u0000G\u0000-\u0000g\u0000a\u0000m\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limichael97/jest-RPG-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limichael97/jest-RPG-game/issues"
+  },
+  "homepage": "https://github.com/limichael97/jest-RPG-game#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
